@@ -12,6 +12,9 @@
 		91B937941E601D9F00F7D202 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91B937921E601D9F00F7D202 /* Main.storyboard */; };
 		91B937961E601D9F00F7D202 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91B937951E601D9F00F7D202 /* Assets.xcassets */; };
 		91B937991E601D9F00F7D202 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91B937971E601D9F00F7D202 /* LaunchScreen.storyboard */; };
+		91B937A11E63376100F7D202 /* demo1.html in Resources */ = {isa = PBXBuildFile; fileRef = 91B937A01E63376000F7D202 /* demo1.html */; };
+		91B937A31E63399B00F7D202 /* demo.html in Resources */ = {isa = PBXBuildFile; fileRef = 91B937A21E63399B00F7D202 /* demo.html */; };
+		91B937A51E63C8A800F7D202 /* apple-ios-swift-start.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 91B937A41E63C8A800F7D202 /* apple-ios-swift-start.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		91B937951E601D9F00F7D202 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91B937981E601D9F00F7D202 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		91B9379A1E601D9F00F7D202 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91B937A01E63376000F7D202 /* demo1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = demo1.html; sourceTree = "<group>"; };
+		91B937A21E63399B00F7D202 /* demo.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = demo.html; path = ../../../demo.html; sourceTree = "<group>"; };
+		91B937A41E63C8A800F7D202 /* apple-ios-swift-start.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "apple-ios-swift-start.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				91B937951E601D9F00F7D202 /* Assets.xcassets */,
 				91B937971E601D9F00F7D202 /* LaunchScreen.storyboard */,
 				91B9379A1E601D9F00F7D202 /* Info.plist */,
+				91B937A01E63376000F7D202 /* demo1.html */,
+				91B937A41E63C8A800F7D202 /* apple-ios-swift-start.pdf */,
+				91B937A21E63399B00F7D202 /* demo.html */,
 			);
 			path = SwiftJavascriptCore;
 			sourceTree = "<group>";
@@ -126,6 +135,9 @@
 				91B937991E601D9F00F7D202 /* LaunchScreen.storyboard in Resources */,
 				91B937961E601D9F00F7D202 /* Assets.xcassets in Resources */,
 				91B937941E601D9F00F7D202 /* Main.storyboard in Resources */,
+				91B937A11E63376100F7D202 /* demo1.html in Resources */,
+				91B937A51E63C8A800F7D202 /* apple-ios-swift-start.pdf in Resources */,
+				91B937A31E63399B00F7D202 /* demo.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +311,7 @@
 				91B9379F1E601D9F00F7D202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
